@@ -1,3 +1,3 @@
 # Repo1
-first git repo
+first git repository
 <br>
